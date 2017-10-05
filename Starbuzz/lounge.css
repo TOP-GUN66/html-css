@@ -1,0 +1,39 @@
+body{
+	font-family:sans-serif;	
+	
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 2px dotted black;
+	padding: 10px 10px 10px 10px;
+}
+h1,h2{
+	
+	color:gray;
+      }
+h1{
+	border-bottom:1px solid black;
+   }
+p{
+	color:blue;
+	
+	
+ 	
+}
+em{
+	font-family:serif;
+}
+blockquote{
+	color:red;
+}
+p.blend{
+	color:purple;
+}
+p.mocha{
+	color:maroon;
+}
+p.cppu{
+	color:orange;
+}
+p.chai{
+	color:green;
+}
