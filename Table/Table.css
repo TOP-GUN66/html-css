@@ -1,0 +1,26 @@
+table{
+   margin-left:200px;
+   margin-right:200px;
+   border:thin solid black;
+   caption-side:bottom;
+   border-spacing: 0px;
+}
+td,th{
+   border:thin dotted grey;
+   padding:5px;
+   text-align:center;
+}
+caption{
+   font-style:italic;
+   padding-top;8px;
+}
+
+th{
+   background-color:orange;
+}
+tr:nth-child(2n){
+   background-color:pink;
+}
+tr:nth-child(2n+1){
+   background-color:yellow;
+}
